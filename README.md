@@ -5,4 +5,4 @@ This is my first javascript web app
 
 The web app is hosted thanks to gituhub at: https://graysoncroom.github.io/ColorGuessingGame/
 
-<b>How to Play:</b> You are given an rgb color code, from this code pick the color of which it corresponds.
+<b>How to Play:</b> You are given an rgb color code, from this code pick the color to which it corresponds.
